@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+S:\Eclipse\SoftUni (Fundamentals with Java)\.metadata\.plugins\org.eclipse.jdt.core
