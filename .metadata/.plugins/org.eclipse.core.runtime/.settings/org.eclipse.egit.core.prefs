@@ -1,5 +1,6 @@
 GitRepositoriesView.GitDirectories=S\:\\Eclipse\\SoftUni (Fundamentals with Java)\\.git;
 GitRepositoriesView.GitDirectories.relative=.git;
 RepositorySearchDialogSearchPath=S\:\\Eclipse\\SoftUni (Fundamentals with Java)\\.git
+core_http_client=jdk
 core_preferredMergeStrategy=jgit-default-mergeStrategy
 eclipse.preferences.version=1
