@@ -9,7 +9,7 @@ public class l_multiplication_table_v2
 		Scanner scanner=new Scanner(System.in);
 		System.out.print("Enter the number you'd like to multiply: ");
 		int number=Integer.parseInt(scanner.nextLine());
-		System.out.print("Enter how many times you'd like to multiply said number: ");
+		System.out.print("Enter a random multiplier: ");
 		int multiplier=Integer.parseInt(scanner.nextLine());
 		System.out.println();
 		
