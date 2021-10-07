@@ -4,6 +4,6 @@ public class n_refactor_sum_of_odd_numbers
 {
 	public static void main(String[] args) 
 	{
-		// The same as j_sum_of_odd_numbers
+		// same as j_sum_of_odd_numbers
 	}
 }

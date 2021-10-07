@@ -7,7 +7,7 @@ public class f_month_printer
 	public static void main(String[] args) 
 	{
 		Scanner scanner=new Scanner(System.in);
-		System.out.print("Enter the number of your corresponding month: ");
+		System.out.print("Enter the number of the corresponding month: ");
 		int monthNumber=Integer.parseInt(scanner.nextLine());
 		System.out.println();
 		

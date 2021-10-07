@@ -14,10 +14,10 @@ public class a_ages
 		else if(age>=3 && age<=13)
 			System.out.print("You're growing so fast, aren't ya, little bud?");
 		else if(age>=14 && age<=19)
-			System.out.print("You're a teen that's moody most of the time... Those hormonal changes are kind of rough, right?");
+			System.out.print("You're a teen that's moody most of the time... Those hormonal changes you're going through right now are kind of rough, right?");
 		else if(age>=20 && age<=65)
 			System.out.print("It's time for the real world, pal - taxes, taxes and even more taxes...");
 		else if(age>65)
-			System.out.print("Hey, why's that dementia link purple...");
+			System.out.print("Hey, why's that dementia article link purple...");
 	}
 }
